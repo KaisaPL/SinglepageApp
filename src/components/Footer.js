@@ -1,7 +1,10 @@
 export default function Footer() {
     return (
-        <div>
-            This is the footer
-        </div>
+        <footer className="footer">
+            <div className="container">
+                <span>@Kaisa Lehtelä DIN21SP</span>
+            </div>
+        </footer>
+        
     )
 }
